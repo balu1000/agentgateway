@@ -52,3 +52,28 @@ curl http://localhost:3000/v1/chat/completions \
 Backends  
 Policies  
 Routes
+---
+
+# Lab-1 Basic Agentic Infrastructure
+
+## Gateway UI
+
+![Gateway UI](ui.png)
+
+---
+
+## Routes Configuration
+
+![Routes](routes.png)
+
+---
+
+## Backends
+
+![Backends](backends.png)
+
+---
+
+## LLM Test Response
+
+![Test](test.png)
