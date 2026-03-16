@@ -54,8 +54,6 @@ Policies
 Routes
 ---
 
-# Lab-1 Basic Agentic Infrastructure
-
 ## Gateway UI
 
 ![Gateway UI](ui.png)
